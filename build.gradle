@@ -65,7 +65,7 @@ dependencies {
 
 jar {
     manifest.attributes(
-        "FMLCorePlugin": "me.name.modtemplate.asm.LoadingPlugin",
+        "FMLCorePlugin": "me.shvaich.rcguard.asm.LoadingPlugin",
         "FMLCorePluginContainsFMLMod": "true"
     )
 }

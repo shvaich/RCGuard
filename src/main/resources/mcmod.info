@@ -2,9 +2,9 @@
   {
     "modid": "${mod_id}",
     "name": "${mod_name}",
-    "description": "A Mod Template",
+    "description": "A mod designed to guard specific right-click interactions",
     "version": "${mod_version}",
-    "url": "",
+    "url": "https://github.com/shvaich/RCGuard",
     "authorList": ["shvaich"],
     "credits": "shvaich",
     "logoFile": ""
